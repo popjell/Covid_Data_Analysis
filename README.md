@@ -6,7 +6,7 @@ Country Comparison: Select multiple countries to compare trends over time.
 Trend Analysis: View the trend of active cases, deaths, and recoveries for selected countries.
 Aggregate Data: View aggregate statistics (total cases, deaths, etc.) across countries.
 Date Filtering: Filter data by specific date ranges.
-Shiny App Link:
+Shiny App Link: https://jathav-puvi.shinyapps.io/covid_trends/
 
 
 Data Source:
